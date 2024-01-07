@@ -1,7 +1,8 @@
-Previsao de resultado de Crossfit
+Modelos de Sport Analytics aplicados para a previsão de resultados de Campeonato de Crossfit
 ==============================
 
-Projeto de conclusao de curso do MBA da USP ICMC
+Projeto de conclusão de curso do MBA da USP ICMC Turma 2023
+Project Name: Sport Analytics models applied to predict Crossfit Championship
 
 Project Organization
 ------------
