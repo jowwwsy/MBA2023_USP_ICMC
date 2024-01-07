@@ -2,6 +2,7 @@ Modelos de Sport Analytics aplicados para a previsão de resultados de Campeonat
 ==============================
 
 Projeto de conclusão de curso do MBA da USP ICMC Turma 2023
+
 Project Name: Sport Analytics models applied to predict Crossfit Championship
 
 Project Organization
